@@ -1,7 +1,3 @@
-<?php
-
-require_once("SimpleCalculator.php");
-
 use PHPUnit\Framework\TestCase;
 
 class SimpleCalculatorTest extends TestCase

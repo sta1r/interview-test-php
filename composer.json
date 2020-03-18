@@ -1,0 +1,14 @@
+{
+    "name": "simon-letch/interview-test-php",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Letch",
+            "email": "simon.letch@dotdigital.com"
+        }
+    ]
+}

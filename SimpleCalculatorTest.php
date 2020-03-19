@@ -1,3 +1,5 @@
+<?php
+
 use PHPUnit\Framework\TestCase;
 
 class SimpleCalculatorTest extends TestCase
@@ -9,7 +11,7 @@ class SimpleCalculatorTest extends TestCase
 
     public function testSubtraction()
     {
-        $this->assertEquals(2, SimpleCalculator::calculate("1 + 1"));
+        $this->assertEquals(1, SimpleCalculator::calculate("100 - 99"));
     }
 
     public function testAdditionsAndSubtractions()

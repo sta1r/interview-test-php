@@ -4,6 +4,12 @@
  * It only supports addition and subtraction
  * It does not support multiplication, division, brackets or indices
  *
+ * Example input:
+ * "1 + 1 - 10 + 45"
+ *
+ * There will always be a space between operands and will always be a valid input
+ * No other text/characters are to be expected.
+ *
  */
 class SimpleCalculator
 {

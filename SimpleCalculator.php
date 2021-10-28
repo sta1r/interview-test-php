@@ -1,3 +1,5 @@
+<?php
+
 /**
  * This class encapsulates the logic to return the result of a calculation represented as a string
  *
